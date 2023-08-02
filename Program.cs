@@ -8,7 +8,7 @@ namespace Assignment21
         static List<string> fruits = new List<string> { "Mango","WaterMelon","Guava","PineApple","Grapes","Apple","Cherri","JackFruit","Papaya","Orange","Banana","DragonFruit" };
         static List<string> days = new List<string> { "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" };
         static List<string> months = new List<string> { "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December" };
-        static Dictionary<string, string> wordsAndMeanings = new Dictionary<string, string>
+        static Dictionary<string, string> words = new Dictionary<string, string>
             {
                 { "McDonald's", "I'm Lovin' it" },
                 { "KFC", "Finger lickin' good" },
@@ -52,9 +52,9 @@ namespace Assignment21
         {
             Thread.Sleep(15000); 
             Console.WriteLine("Displaying Words and Meanings:");
-            foreach (var kvp in wordsAndMeanings)
+            foreach (var dic in words)
             {
-                Console.WriteLine($"{kvp.Key}: {kvp.Value}");
+                Console.WriteLine($"{dic.Key}: {dic.Value}");
             }
             Console.WriteLine();
         }
