@@ -1,0 +1,8 @@
+D:\Raven\Practice Exercise\C#\Assignment21\obj\Debug\Assignment21.csproj.AssemblyReference.cache
+D:\Raven\Practice Exercise\C#\Assignment21\obj\Debug\Assignment21.csproj.SuggestedBindingRedirects.cache
+D:\Raven\Practice Exercise\C#\Assignment21\obj\Debug\Assignment21.csproj.CoreCompileInputs.cache
+D:\Raven\Practice Exercise\C#\Assignment21\bin\Debug\Assignment21.exe.config
+D:\Raven\Practice Exercise\C#\Assignment21\bin\Debug\Assignment21.exe
+D:\Raven\Practice Exercise\C#\Assignment21\bin\Debug\Assignment21.pdb
+D:\Raven\Practice Exercise\C#\Assignment21\obj\Debug\Assignment21.exe
+D:\Raven\Practice Exercise\C#\Assignment21\obj\Debug\Assignment21.pdb
